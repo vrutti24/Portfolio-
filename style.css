@@ -21,3 +21,40 @@ img{
 
 }
 }
+
+.navHome{
+	background-color: green;
+}
+
+.navEd{
+	background-color: rgb(215, 3, 3);
+}
+
+.navProject {
+	background-color: blue;
+}
+
+.navProject:hover {
+	cursor: pointer;
+	background-color: rgb(0, 132, 255);
+}
+
+.navContact{
+	background-color: #ffc107;
+}
+
+.navContact:hover{
+	cursor: pointer;
+	background-color: #f0e40b;
+}
+
+
+.navHome:hover{
+	cursor: pointer;
+	background-color: rgb(10, 183, 10);
+}
+
+.navEd:hover{
+	cursor: pointer;
+	background-color: rgb(241, 63, 63);
+}
